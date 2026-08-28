@@ -1,0 +1,15 @@
+name = input("Masukkan Username: ")
+#phone_number = input("Masukkan nomor telepon anda: ")
+
+result = len(name)
+# result = name.find("  ")
+# result = name.rfind (" ")
+# name = name.capitalize()
+# name = name.upper()
+# name = name.lower()
+# result = name.isdigit()
+# result = name.isalpha ()
+# result = phone_number.count("-")
+# result = phone_number.replace("-", "")
+
+input(result) 
